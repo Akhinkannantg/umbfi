@@ -19,7 +19,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://https://github.com/Akhinkannantg/umbfi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Akhinkannantg/umbfi)
 
 ### Hard Way
 
