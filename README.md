@@ -18,8 +18,11 @@
 
 ## Installation
 
-### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Akhinkannantg/umbfi)
+#### Deploy To Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akhinkannantg/umbfi)
+
+
 
 ### Hard Way
 
